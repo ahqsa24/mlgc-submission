@@ -12,9 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/firestore": "^7.11.0",
+    "@google-cloud/storage": "^7.14.0",
     "crypto": "^1.0.1",
     "dotenv": "^16.4.7",
-    "hapi": "^18.1.0",
+    "@tensorflow/tfjs-node": "^4.14.0",
     "nodemon": "^3.1.7"
   }
 }
