@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --no-warnings .src/services/server.js",
-    "start-auto": "nodemon --no-warnings .src/services/server.js"
+    "start": "node --no-warnings .src/server/server.js",
+    "start-auto": "nodemon --no-warnings .src/server/server.js"
   },
   "author": "Ahmad Qaulan Sadida",
   "license": "ISC",
